@@ -37,8 +37,8 @@ catch {
 
 #$Sleep - variable is in "max" seconds - tweak this for the max amount of time it should take before submitting information 
 # Examples
-# 180 = 5 minutes
-# 360 = 10 minutes
+# 300 = 5 minutes
+# 600 = 10 minutes
 # 1800 = 30 minutes
 # 3600 = 60 minutes
 
