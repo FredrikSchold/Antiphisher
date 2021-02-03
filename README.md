@@ -11,7 +11,7 @@ This script is written to counter the big amount of phishing-sites out there. If
 This to hide your information in the mass of other fake information.
 Ofcourse the first step should be to change your password if you sent real login information to a maliscious site.
 
-    Also I dont condone using this on nonmaliscious sites as some kind of spam! This is only to counter phishing!
+#Also I dont condone using this on nonmaliscious sites as some kind of spam! This is only to counter phishing!
 
     Inputs 
 This script is using apmodule.psm1. Make sure you dont change directory structure because then the script wont find the module.
